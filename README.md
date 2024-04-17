@@ -8,4 +8,4 @@ This series is divided into multiple videos, each focusing on different aspects 
 
 ## Getting Started
 
-To get started with each video's code, navigate to the respective directory (`video-1`, `video-2`, etc.), and follow the instructions provided in the README.md file
+To get started with each video's code, navigate to the respective directory (`video-1`, `video-2`, etc.), and follow the instructions provided in the README.md file.
